@@ -19,7 +19,7 @@ phone-number* | without ziro. example: '9164210427'
 password* | at least 6 characters
 
 #### Reponses:
-- Succeeded - 200:
+- `200` Succeeded:
 ```javascript
 {
     "ok": true,
