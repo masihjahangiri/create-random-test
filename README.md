@@ -11,7 +11,7 @@
 - Seeding input data by model factories
 - Logging by Illuminate\Support\Facades\Log
 ## API Documentation
-### `POST` /auth/login
+### `POST` /login
 #### Parameter:
 Parameter | Description
 --------- | -----------
