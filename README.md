@@ -26,7 +26,7 @@ password* | at least 6 characters
     "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJyZXN0ZnVsLWFwaS1sdW1lbiIsInN1YiI6ODEsImlhdCI6MTU1Mjg2MjA5OCwiZXhwIjoxNTUyODY1Njk4fQ.Y2ZajmVy2cFEJZyruP_Ewnf5U4V75MzlUkztAD25y3c"
 }
 ```
-- Params doesn't valid - 400:
+- `400` Params doesn't valid:
 ```javascript
 {
     "ok": false,
@@ -40,7 +40,7 @@ password* | at least 6 characters
 }
 ```
 
-- Phone number not registered - 400:
+- `400` Phone number not registered:
 ```javascript
 {
     "ok": false,
@@ -51,7 +51,7 @@ password* | at least 6 characters
 }
 ```
 
-- The password does not match the username - 400:
+- `400` The password does not match the username:
 ```javascript
 {
     "ok": false,
@@ -66,7 +66,7 @@ password* | at least 6 characters
 }
 ```
 
-- The password does not match the username - 400:
+- `400` The password does not match the username:
 ```javascript
 {
     "ok": false,
