@@ -4,7 +4,7 @@
 #### Parameter:
 Parameter | Description
 --------- | -----------
-phone-number* | without ziro example: '9164210427'
+phone-number* | without ziro. example: '9164210427'
 password* | at least 6 characters
 
 #### Reponses:
